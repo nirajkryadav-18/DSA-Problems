@@ -1,7 +1,7 @@
 #include <iostream>
 #include <climits>
 using namespace std;
-int main()
+int main()                  //find the max value 
 {
     int arr[5]={52,78,96,524,12};
     int ans=INT_MIN;
